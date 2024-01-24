@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            BlackDoc
+title:            Yujie Chen
 tagline:          Black Theme for Jekyll
-description:      "A two-column black theme with a scrolling sidebar. Ideal for sites requiring a master-detail layout, e.g. documentation, cheatsheets, lyrics, notes..."
+description:      "From crafting code for embedded systems, unraveling the mysteries of machine learning algorithms, to building intricate miniature worlds and woodworking wonders – I'm a tech enthusiast with a passion for turning ideas into reality across the realms of software, AI, carpentry, and the charming universe of miniature model making!"
 url:              https://github.com/karloespiritu/blackdoc
 baseurl:          /
                   # the optional subpath of your site, e.g. "/my-jekyll-site/"
