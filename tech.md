@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Theme Styles
+title: Tech Adventure
 ---
 
 ## Full Style Test
