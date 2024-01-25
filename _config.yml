@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Yujie Chen
 tagline:          Black Theme for Jekyll
-description:      "Tech enthusiast passionate about crafting code for embedded systems, exploring machine learning algorithms, and creating intricate miniature worlds through software, AI, and carpentry"
+description:      "Master's student@KTH specializing in embedded software, ML, and AI, with a keen interest in crafting miniature worlds through woodworking."
 url:              https://github.com/karloespiritu/blackdoc
 baseurl:          /
                   # the optional subpath of your site, e.g. "/my-jekyll-site/"
