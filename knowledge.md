@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Knowledge Treasures
+title: 3 Knowledge Treasures
 ---
 
 ## Full Style Test
