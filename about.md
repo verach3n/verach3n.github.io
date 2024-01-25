@@ -4,15 +4,7 @@ title: About
 ---
 
 <p class="message">
-  Hi there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Welcome to my corner of the internet! This website serves as both my personal space and a repository for my academic journey and interests. Here, you'll find my academic roadmap, primarily focused on embedded software and machine learning. I'll be sharing study notes, tech projects, and even delving into personal interests, such as my miniature model creations. Join me as I document my learning experiences and showcase the fusion of academia and personal passions.
 </p>
 
-## About BlackDoc Theme
-
-Some relevant information about this project:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Theme based on [Poole](http://getpoole.com), the Jekyll butler, and the [Hyde](http://hyde.getpoole.com) theme
-* Ideal for sites requiring master-detail layout such as documentation, cheatsheets, lyrics, notes, etc.
-* Need a beautiful color scheme for black background? Then you will love BlackDoc theme.
 
