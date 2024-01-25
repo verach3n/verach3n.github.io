@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Theme Styles
+title: Academical Adventure
 ---
 
 ## Full Style Test

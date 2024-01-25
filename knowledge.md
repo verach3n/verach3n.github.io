@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Theme Styles
+title: Knowledge Treasures
 ---
 
 ## Full Style Test

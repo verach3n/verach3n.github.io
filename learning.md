@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Theme Styles
+title: Learning Odyssey
 ---
 
 ## Full Style Test

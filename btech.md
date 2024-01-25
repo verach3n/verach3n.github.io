@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Theme Styles
+title: Resume
 ---
 
 ## Full Style Test
