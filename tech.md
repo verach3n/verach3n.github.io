@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tech Adventure
+title: 2 Tech Adventure
 nav_order: 2
 ---
 
