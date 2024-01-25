@@ -1,7 +1,6 @@
 ---
 layout: page
 title: 2 Tech Adventure
-nav_order: 2
 ---
 
 ## Full Style Test
