@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tech Adventure
+title: Academical Adventure
 ---
 
 ## Full Style Test
