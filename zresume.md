@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Academical Adventure
+title: Resume
 ---
 
 ## Full Style Test
